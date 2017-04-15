@@ -35,7 +35,7 @@ ionic入门  链接: https://pan.baidu.com/s/1i5mKcnF
 
 微信小程序入门  链接: https://pan.baidu.com/s/1o8FGjDw
 
-为了保证连接的可使用性，请关注微信公众号"ionic实战"，
+为了保证连接的可使用性，请关注微信公众号"全栈弄潮儿"，
 
 React Native入门视频 回复“RN提取码”领取 提取码
 
@@ -44,8 +44,8 @@ ionic入门视频 回复“ionic提取码”领取 提取码
 微信小程序入门视频 回复“小程序提取码”领取 提取码
 
 
-#### 欢迎关注我的微信公众号 ionic实战 ，获取更多学习资源
+#### 欢迎关注我的微信公众号 全栈弄潮儿 ，获取更多学习资源
 
-* 扫一扫下面的二维码或者搜索"ionic实战"
+* 扫一扫下面的二维码或者搜索"全栈弄潮儿"
 
-<img src="https://github.com/Alex-0407/ionic2-preview/blob/master/src/assets/img/qrcode_for_gh_ionic2.jpg" width="320px" style="display:inline;">
+<img src="https://github.com/Alex-0407/sinacloud-node/blob/master/fullstack-8cm.jpg" width="320px" style="display:inline;">
